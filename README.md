@@ -7,7 +7,7 @@ Neste repositório, insira todos os links e arquivos necessários para seu proje
 Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.
 
 ## Instruções para entrega
-3️⃣ Escrevendo as classes de um Jogo
+Escrevendo as classes de um Jogo
 
 #### O Que deve ser utilizado:
 
